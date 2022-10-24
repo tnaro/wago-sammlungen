@@ -27,6 +27,7 @@
 - [Personal Alert](https://wago.io/PersonalAlert)
 - [Pulltimer Buttons](https://wago.io/rJNoy5wRX)
 - [Taunt Alert](https://wago.io/BJb2bZE8z)
+- [Dragon Riding Weakaura mit Neigung](https://wago.io/dmui-dragonriding/27)
 
 ### Druid
 - [Owlweave Feral](https://wago.io/TwllFcckH)
