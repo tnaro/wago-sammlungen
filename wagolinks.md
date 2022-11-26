@@ -1,6 +1,16 @@
 ## Weakauras
 
+### Wago Pages von Authoren
+- [Reloe](https://wago.io/p/Reloe)
+- [Doctorio](https://wago.io/p/Doctorio)
+- [Luxthos](https://wago.io/p/Luxthos)
+- [Causese](https://wago.io/p/Causese)
+- [Afenar](https://wago.io/p/Afenar)
+
 ### M+
+- [Reloes Dungeon Pack für Season 1](https://wago.io/DFS1Dungeons) (braucht auch [Anchors](https://wago.io/WeakAuraAnchors) und [Utilities](https://wago.io/RaidUtilities))
+- [Causeses Dungeon Pack](https://wago.io/yaN0dfXwd)
+- [Spell CDs on Nameplate DF S1](https://wago.io/B-saNwgCJ)
 - [Dungeon Targetted Spells](https://wago.io/BFADungeonTargetedSpells/65)
 - [Important Casts to interrupt glow](https://wago.io/0zeLaqjDa)
 - [Ellesmere Dungeon Frontals](https://wago.io/uYX5mP3U5)
@@ -9,15 +19,18 @@
 - [Quaking Current Cast](https://wago.io/ByQSAbqBm)
 - [Tank Calls](https://wago.io/ltENrybhU)
 - [Required Percent](https://wago.io/_PCyfyfoR)
+- [Reloes M+ Timer](https://wago.io/zkhTYrEsG)
+
+### Raid
+- [Vault Causese Weakauras](https://wago.io/4Pao4uRwe)
 
 ### Generic
+- [Bigwigs Bar Renamer](https://wago.io/BigWigsTSU)
 - [Auto Tank Misdirect](https://wago.io/r1jW3Oo2G)
 - [Aura Bar Potions unter Unitframe](https://wago.io/PotionBar)
 - [Missing Enchants](https://wago.io/AaEUU91PA)
-- [Nnoggies Focus Castbar](https://wago.io/zipJYtztT)
 - [Details Nickname extender](https://wago.io/uq0Uox6Ta)
 - [Current Movespeed](https://wago.io/EygwpDPvM)
-- [LFG Decline Tracker](https://wago.io/BJggrSyzoQ)
 - [Groupfinder Extension](https://wago.io/6-GG3RMcC)
 - [Dont Release](https://wago.io/NkAOjKJ6G)
 - [Mouse Cursor](https://wago.io/ZbjlsgMkp)
@@ -30,7 +43,6 @@
 - [Dragon Riding Weakaura mit Neigung](https://wago.io/dmui-dragonriding/27)
 
 ### Druid
-- [Owlweave Feral](https://wago.io/TwllFcckH)
 - [Balance Resto Fancy Eclipse](https://wago.io/T6s27CUPI)
 
 ## Plater Links
@@ -43,3 +55,5 @@
 - [@target für aoe Spells](https://www.wowhead.com/news/automatically-target-enemies-or-friendlies-with-reticle-based-spells-using-327371)
 
 # Alte Links
+- [LFG Decline Tracker](https://wago.io/BJggrSyzoQ)
+- [Owlweave Feral](https://wago.io/TwllFcckH)
