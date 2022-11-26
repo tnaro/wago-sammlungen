@@ -23,9 +23,11 @@
 
 ### Raid
 - [Vault Causese Weakauras](https://wago.io/4Pao4uRwe)
+- [Vault Causese Co-Tank Auras](https://wago.io/d1pQRG9qp)
 
 ### Generic
 - [Bigwigs Bar Renamer](https://wago.io/BigWigsTSU)
+- [GLow Refundable Talents](https://wago.io/pogAL95VQ)
 - [Auto Tank Misdirect](https://wago.io/r1jW3Oo2G)
 - [Aura Bar Potions unter Unitframe](https://wago.io/PotionBar)
 - [Missing Enchants](https://wago.io/AaEUU91PA)
