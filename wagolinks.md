@@ -41,3 +41,5 @@
 
 ## Guides
 - [@target für aoe Spells](https://www.wowhead.com/news/automatically-target-enemies-or-friendlies-with-reticle-based-spells-using-327371)
+
+# Alte Links
