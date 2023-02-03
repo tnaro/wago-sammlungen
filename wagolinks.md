@@ -20,6 +20,8 @@
 - [Tank Calls](https://wago.io/ltENrybhU)
 - [Required Percent](https://wago.io/_PCyfyfoR)
 - [Reloes M+ Timer](https://wago.io/zkhTYrEsG)
+- [Wise Mari](https://wago.io/8euMch-gQ)
+- [RLP Last Boss Fire Drop Wind Direction](https://wago.io/udzwTKN2T)
 
 ### Raid
 - [Vault Causese Weakauras](https://wago.io/4Pao4uRwe)
@@ -27,9 +29,8 @@
 
 ### Generic
 - [Bigwigs Bar Renamer](https://wago.io/BigWigsTSU)
-- [GLow Refundable Talents](https://wago.io/pogAL95VQ)
+- [Glow Refundable Talents](https://wago.io/pogAL95VQ)
 - [Auto Tank Misdirect](https://wago.io/r1jW3Oo2G)
-- [Aura Bar Potions unter Unitframe](https://wago.io/PotionBar)
 - [Missing Enchants](https://wago.io/AaEUU91PA)
 - [Details Nickname extender](https://wago.io/uq0Uox6Ta)
 - [Current Movespeed](https://wago.io/EygwpDPvM)
@@ -43,6 +44,8 @@
 - [Pulltimer Buttons](https://wago.io/rJNoy5wRX)
 - [Taunt Alert](https://wago.io/BJb2bZE8z)
 - [Dragon Riding Weakaura mit Neigung](https://wago.io/dmui-dragonriding/27)
+- [Find yourself anywhere](https://wago.io/YOBdnwoVB)
+- [Weekly Professions Stuff](https://wago.io/w4D9R3Ykr)
 
 ### Druid
 - [Balance Resto Fancy Eclipse](https://wago.io/T6s27CUPI)
@@ -52,6 +55,7 @@
 - [Crypticzz's Dungeon Plater Profile](https://wago.io/NoCquelep)
 - [Spell Cooldowns on Nameplates](https://wago.io/54BeMVol3)
 - [Pet Tanking Recolor](https://wago.io/ZqU9hBu43) *(Recolors the nameplate, if the unit is tanked by pets)*
+- [DorkiUI](https://wago.io/n6oy9EBmv)
 
 ## Guides
 - [@target für aoe Spells](https://www.wowhead.com/news/automatically-target-enemies-or-friendlies-with-reticle-based-spells-using-327371)
@@ -59,3 +63,4 @@
 # Alte Links
 - [LFG Decline Tracker](https://wago.io/BJggrSyzoQ)
 - [Owlweave Feral](https://wago.io/TwllFcckH)
+- [Aura Bar Potions unter Unitframe](https://wago.io/PotionBar)
