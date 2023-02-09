@@ -22,6 +22,7 @@
 - [Reloes M+ Timer](https://wago.io/zkhTYrEsG)
 - [Wise Mari](https://wago.io/8euMch-gQ)
 - [RLP Last Boss Fire Drop Wind Direction](https://wago.io/udzwTKN2T)
+- [COS Spy Finder](https://wago.io/FzosRRHZj)
 
 ### Raid
 - [Vault Causese Weakauras](https://wago.io/4Pao4uRwe)
@@ -56,6 +57,7 @@
 - [Spell Cooldowns on Nameplates](https://wago.io/54BeMVol3)
 - [Pet Tanking Recolor](https://wago.io/ZqU9hBu43) *(Recolors the nameplate, if the unit is tanked by pets)*
 - [DorkiUI](https://wago.io/n6oy9EBmv)
+- [WhiskeyzPlater](https://wago.io/whiiskeyzplater)
 
 ## Guides
 - [@target für aoe Spells](https://www.wowhead.com/news/automatically-target-enemies-or-friendlies-with-reticle-based-spells-using-327371)
