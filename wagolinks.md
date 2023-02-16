@@ -23,6 +23,9 @@
 - [Wise Mari](https://wago.io/8euMch-gQ)
 - [RLP Last Boss Fire Drop Wind Direction](https://wago.io/udzwTKN2T)
 - [COS Spy Finder](https://wago.io/FzosRRHZj)
+- [COS Item Buffs](https://wago.io/rh0KoX5z1)
+- [HOV Runic Brand Helper (Odyn)](https://wago.io/RunicBrandHelper)
+- [Warrior M+ Spell Reflect Helper](https://wago.io/tDT26wrXg)
 
 ### Raid
 - [Vault Causese Weakauras](https://wago.io/4Pao4uRwe)
