@@ -4,6 +4,7 @@
 - [Reloe](https://wago.io/p/Reloe)
 - [Doctorio](https://wago.io/p/Doctorio) [Workshop](https://docs.google.com/spreadsheets/d/1LFeyf4aBcJuXJSFyX58lWImM2bwPlYzdnPJVsSy7Imo/edit#gid=503287393)
 - [Luxthos](https://wago.io/p/Luxthos)
+- [Luckyone](https://wago.io/p/Luckyone)
 - [Causese](https://wago.io/p/Causese)
 - [Afenar](https://wago.io/p/Afenar)
 
