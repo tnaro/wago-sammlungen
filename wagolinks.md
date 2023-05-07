@@ -51,6 +51,7 @@
 - [Dragon Riding Weakaura mit Neigung](https://wago.io/dmui-dragonriding/27)
 - [Find yourself anywhere](https://wago.io/YOBdnwoVB)
 - [Weekly Professions Stuff](https://wago.io/w4D9R3Ykr)
+- [Dorovon Castbar](https://wago.io/u6uoy2SpQ)
 
 ### Druid
 - [Balance Resto Fancy Eclipse](https://wago.io/T6s27CUPI)
